@@ -5,4 +5,4 @@ Supported hotspot:
 
 * Universiti Putra Malaysia (2018 - require tester)
 
-DM me at (twitter) @msyafiqizzat to add your uni hotspot ;)
+DM me at [(twitter) @msyafiqizzat](https://twitter.com/msyafiqizzat) to add your uni hotspot ;)
