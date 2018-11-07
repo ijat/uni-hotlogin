@@ -1,5 +1,5 @@
 # uni-hotlogin
-Automatically login hotspot when timeout
+Automatically login hotspot when timeout written using dotnet core
 
 Supported hotspot:
 
